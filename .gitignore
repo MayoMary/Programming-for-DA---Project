@@ -3,7 +3,6 @@ Need to do the following for the code to run:
 Need to have Jupyter Notebook with Python 3.
 
 Import the following :
- - Matplotlib
  - Numpy : Link http://www.numpy.org/
  - Pandas : Link: https://pandas.pydata.org/
  - Matplotlib : Link : https://matplotlib.org/
